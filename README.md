@@ -17,7 +17,7 @@ This project is a C# application that calculates the Shock Response Spectrum (SR
 
 ## Requirements
 
-- .NET SDK (e.g., .NET 6.0 or later)
+- .NET Framework
 
 
 ## Usage
